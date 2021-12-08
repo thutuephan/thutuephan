@@ -6,3 +6,4 @@
 -  https://thutuephan.github.io/T.Phan-Portfolio/
 
 
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=thutuephan&count_private=true&theme=tokyonight&showicons=true)]()
